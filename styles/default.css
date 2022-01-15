@@ -1,0 +1,51 @@
+body 
+{
+  	margin: 30px;
+  	font-family: georgia;
+  	background-color: #acb7ae;
+  	font-size: 100%;
+	color: #F1EB9C
+}
+main 
+{
+	background-color: #101357;
+	color: #82716e;
+	padding-top: 25px;
+    	padding-right: 15px;
+    	padding-bottom: 25px;
+    	padding-left: 15px;
+}
+	
+a 
+{
+	color: #F1EB9C;
+}
+ul 
+{
+	background-color: #101357;
+	color: #c2b490;
+}
+footer 
+{
+	text-align: center;
+	color: #F1EB9C
+}
+
+figure 
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+table 
+{
+	border: 5px #c2b490;
+	margin-left: auto;
+	margin-right: auto;
+}
+td 
+{
+	border: 2px solid #c2b490;
+	color: #c2b490;
+	text-align: center;
+}
